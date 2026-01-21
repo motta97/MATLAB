@@ -6,28 +6,18 @@ The primary goal of this project is to develop a MATLAB-based code that performs
 Through this activity, we aim to reinforce the theoretical concepts covered in the course, such as time-domain and frequency-domain representations,
 energy calculations, and system responses to filtering.
 # Methodology
+
 As a team, we wanted to divide the project into smaller tasks that each of us could do, so the whole project was done in the end. We divided the project into those specific tasks:
--
 Making the audio file of us mentioning our name
--
 Plotting the audio signal in the time domain
--
 Calculating the signal energy from the time domain
--
 Finding the frequency domain representation of the signal and plotting it
--
 Calculating the signal energy from the frequency domain
--
 Comparing it with the calculated value in the time domain
--
 Applying a Butterworth filter of 10th order to change the original frequency components of the audio signal and plotting the filtered signal in the frequency domain
--
 Finding the corresponding signal in the time domain for the filtered signal and plotting it.
--
 Saving the filtered audio file in time domain on the hard disk
--
 Collecting the distributed code in only one file
--
 Verifying its functionality
 # Conclusion
 In contrast, by analyzing and processing an audio signal, we gained valuable insights into the key concepts of time-domain and frequency-domain representations,
